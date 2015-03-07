@@ -6,4 +6,5 @@ Second save those changes.
 Third, 'git add testing.txt'
 Fourth, git commit -m "put in what-I-was-thinking comments here"
 Fifth, check 'git status'
+I'm adding more things to github from the editor in the web browser.
 
