@@ -1,2 +1,9 @@
 Starting an all new file but the same name.
 Still adding to it in nano.
+I think I'm getting it now. 
+First, open the file in nano.
+Second save those changes.
+Third, 'git add testing.txt'
+Fourth, git commit -m "put in what-I-was-thinking comments here"
+Fifth, check 'git status'
+
